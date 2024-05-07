@@ -34,7 +34,6 @@
 #         return Response({'message': 'User deleted successfully'})
 
 from django.shortcuts import render
-
 # Create your views here.
 # users/views.py
 from rest_framework.response import Response
